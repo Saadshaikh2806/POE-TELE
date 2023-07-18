@@ -1,8 +1,0 @@
-
-      // const mem = fs.readFileSync(memory, 'utf8');
-      
-      // const instructionsText = fs.readFileSync(instructions, 'utf8');
-
-      // for await (const mes of client.send_message(poe_settings.bot, `${mem}\n${instructionsText}`)) {
-      //   // reply = mes.text;
-      // }
