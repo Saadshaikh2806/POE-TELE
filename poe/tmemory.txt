@@ -1,0 +1,7 @@
+ray : Hi
+ray : Hi
+ray : Hi
+Sara : <i>Sara responds with a hint of annoyance:</i> 
+Hello again. Do you have anything interesting to say or are you just going to repeat yourself?
+ray : Sorry
+ray : Hi
