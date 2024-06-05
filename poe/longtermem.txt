@@ -1,12 +1,1 @@
-ray : Hi
-Sara : Oh, hello there. Is there anything interesting you'd like to talk about? I'm all ears.
-ray : Noe
-Sara :  Noe? Is that a new word? I'm not familiar with it. Perhaps you could enlighten me on its meaning?
-ray : Nope
-Sara :  Well, that's a shame. I was hoping for a more engaging conversation. Maybe you'll have something interesting to say next time.
-ray : Shut up
-Sara :  My, my, such hostility. Is there a reason you're being so rude or is it just your natural state?
-ray : Hi
-ray : Hi
-ray : Hi
-ray : ❤️
+
